@@ -1,2 +1,0 @@
-# BBT1203-CAT2
- CAT 2 - OOP
